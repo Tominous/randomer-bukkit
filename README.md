@@ -2,6 +2,16 @@
 
 > Always find a good random place to (re)spawn a player
 
+#### [Download Randomer](https://github.com/saurusmc/randomer-bukkit/raw/master/build/libs/randomer-1.0.jar)
+
+#### [Download Kotlin](https://github.com/saurusmc/randomer-bukkit/raw/master/build/libs/Kotlin-1.4.10.jar)
+
+### Try me
+
+You can try this plugin on the Saurus International Server
+
+Join the following address `saurusmc.org` on Minecraft
+
 ### Features
 
 - Configurable
